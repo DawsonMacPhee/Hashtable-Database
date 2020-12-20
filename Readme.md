@@ -24,7 +24,7 @@ Files
 Usage (make)
 
     all
-        Compile all executables
+        Compiles all the main functions for the project
         
     util.o
         Create an object file for the util functions
@@ -61,3 +61,7 @@ Usage (make)
         
     bacon1
         Create the executable bacon1
+        
+    clean
+        Removes the object files and executables
+        
